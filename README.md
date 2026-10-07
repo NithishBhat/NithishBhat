@@ -32,4 +32,8 @@ A business-simulation game that runs in the browser, with its own in-game econom
 
 ### Tools I use
 
-Go, Java, Python, JavaScript/TypeScript · PostgreSQL, MongoDB, DynamoDB, Redis · AWS, Docker, Terraform · React, Next.js
+**Backend & cloud:** Go, Java, Python, Node/Express · PostgreSQL, DynamoDB, MongoDB, Redis · AWS (ECS, RDS, S3, ElastiCache), Docker, Terraform · load testing with Locust
+
+**Web:** JavaScript/TypeScript, React, Next.js, Tailwind CSS
+
+**AI / ML:** Python, scikit-learn, pandas · ML pipelines and testing with pytest and GitHub Actions
