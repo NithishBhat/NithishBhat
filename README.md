@@ -1,6 +1,6 @@
 ## Nithish Bhat
 
-I'm a software engineer doing my MS in Computer Science at Northeastern University in Boston (graduating May 2027). Before that I spent four years at Bosch Global Software Technologies in Bengaluru, working my way up to Senior Software Engineer.
+I'm a software engineer doing my MS in Computer Science at Northeastern University in Boston (graduating December 2026). Before that I spent four years at Bosch Global Software Technologies in Bengaluru, working my way up to Senior Software Engineer.
 
 At Bosch I built tools that sit close to hardware: a Python platform that drove five lab instruments over UART/serial and cut a test cycle from five days to three (it won an internal innovation award), a firmware flashing tool, and analysis for sensor data sampled every 2 ms. I also built an internal chatbot on Llama 2 for new hires.
 
