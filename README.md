@@ -22,9 +22,17 @@ A photo-sharing backend on AWS. The course grades it with an automated tester th
 A team project that looks at a photo of a skin lesion together with the patient's clinical notes and predicts which of six diagnoses it is. The model combines an image network with a medical language model, and reached 0.95 ROC-AUC on the PAD-UFES-20 dataset.
 *PyTorch, ClinicalBERT, Streamlit*
 
-**[Brew Haven](https://github.com/NithishBhat/Coffee_ecom)**
+**[Brew Haven](https://github.com/NithishBhat/Coffee_ecom)** · [live site](https://coffee-ecom-rho.vercel.app)
 An online store for coffee beans with a cart, online payments, order tracking, tax invoices and an admin dashboard for sales.
 *React, Node/Express, MongoDB*
+
+**[Coffee News](https://github.com/NithishBhat/News)** · [live site](https://news-six-inky.vercel.app)
+A daily dashboard for coffee growers: coffee and market news, local weather with frost and leaf-rust warnings, live arabica and robusta prices, and a crop calendar. Uses only free public data, no API keys.
+*React, Node, Vercel*
+
+**[Empire Tycoon](https://github.com/NithishBhat/Empire-tycoon)** · [live site](https://empire-tycoon-smoky.vercel.app)
+A browser business-sim game: start with $100,000 and grow it through businesses, markets and real estate, with prices and demand that change in real time.
+*React, Vite*
 
 **[Fiber Routing](https://github.com/NithishBhat/Minimum-Cost-Optical-Fiber-Routing-with-Prim-s-Algorithm)**
 Finds the cheapest way to lay fiber-optic cable across a real city's street map. A filtering step lets it handle large maps much faster than the standard algorithm.
